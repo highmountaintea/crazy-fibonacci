@@ -1,0 +1,19 @@
+{
+  "name": "crazy-fibonacci",
+  "version": "0.1.0",
+  "description": "Clustering perf test with Crazy Fibonacci server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highmountaintea/crazy-fibonacci.git"
+  },
+  "author": "highmountaintea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highmountaintea/crazy-fibonacci/issues"
+  },
+  "homepage": "https://github.com/highmountaintea/crazy-fibonacci#readme"
+}
