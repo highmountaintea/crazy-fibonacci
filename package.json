@@ -18,6 +18,7 @@
   "homepage": "https://github.com/highmountaintea/crazy-fibonacci#readme",
   "dependencies": {
     "bluebird": "^3.5.1",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "express-cluster": "0.0.5"
   }
 }
